@@ -54,3 +54,6 @@ for (let cardValue of deckValues) {
 		)
 	)
 }
+
+console.log(deck)
+// Tada!
