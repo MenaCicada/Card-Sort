@@ -56,4 +56,5 @@ for (let cardValue of deckValues) {
 }
 
 console.log(deck)
+alert(JSON.stringify(deck))
 // Tada!
